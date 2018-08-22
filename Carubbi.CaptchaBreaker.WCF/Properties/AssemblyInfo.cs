@@ -6,11 +6,11 @@ using System.Resources;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("Carubbi.ComponentServices")]
-[assembly: AssemblyDescription("Camada responsável por expor componentes do framework Carubbi.Components como serviço")]
+[assembly: AssemblyTitle("Carubbi.CaptchaBreaker.WCF")]
+[assembly: AssemblyDescription("Bilbioteca responsável por expor o CaptchaBreaker como serviço web")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("Carubbi Consultoria e Tecnologia")]
-[assembly: AssemblyProduct("Carubbi.ComponentServices")]
+[assembly: AssemblyProduct("Carubbi.CaptchaBreaker")]
 [assembly: AssemblyCopyright("Copyright © Carubbi Consultoria e Tecnologia. 2014")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
